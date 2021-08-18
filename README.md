@@ -38,7 +38,6 @@ VIDEO Tutorial: @ COMING SOON @
 - OSable is __not__ responsible for any systems damaged by our application as laid-out in our MIT license. We recommend taking __backups__ _before_ running our scripts even though we automatically save a Restore Point before changing system files anyway, as a _precautionary_ measure.
 - Please do __not__ use this script on Windows 11 or any other OS than Windows 10.
 - Please note, Windows Updates may revert back our settings, so be sure to run this app again after updating your system.
-- Please do __not__ run this tool on other Operating Systems as this may have undesired effects.
 
 # Security
 
