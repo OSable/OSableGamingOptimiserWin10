@@ -31,7 +31,8 @@ VIDEO Tutorial: @ COMING SOON @
 1. Select your optimisations / tweaks by clicking once on the button of your choice.
 2. Wait around 30 seconds - 1 minute for the action to complete.
 3. Repeat for how many options you want.
-
+4. When you are finished with the application, please simply close it with the 'X' button as you would any other application. 
+5. A Reboot may be required for some changes to activate properly.
 
 ## Important Notes to Read Before Using Our Tool :
 - Please do __not__ stop changes halfway through completion as this may have adverse effects.
