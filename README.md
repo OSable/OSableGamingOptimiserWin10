@@ -25,7 +25,7 @@ All avaliable with a single click each. See 'How to ... ' below :
 10. Press the Return (Enter) key on your keyboard.
 11. The application will load after a few seconds.
 
-VIDEO Tutorial: @ COMING SOON @
+VIDEO Tutorial: https://www.youtube.com/watch?v=NjGrPktE7LQ
 
 ## How to Use
 1. Select your optimisations / tweaks by clicking once on the button of your choice.
