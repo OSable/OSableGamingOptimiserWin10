@@ -1,4 +1,4 @@
-# Windows 10 Gaming & Streaming Optimiser from OSable - OSable.tech/gaming-optimiser
+# Windows 10 Gaming & Streaming Optimiser from OSable - OSable.net/gaming-optimiser
 
 
 ## Introduction
@@ -46,7 +46,7 @@ VIDEO Tutorial: https://www.youtube.com/watch?v=NjGrPktE7LQ
 You can trust OSable's scripts as we have open-sourced them all. This means all the code is open for scrutiny from the general public- including yourself if you so desire. We recommend checking scripts before running them.
 
 Thank You, we hope you like our tool!
-More information is avaliable on our website: OSable.tech.
+More information is avaliable on our website: OSable.net.
 
 --
 Kind Regards,
